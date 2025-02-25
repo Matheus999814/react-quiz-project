@@ -56,3 +56,18 @@
     }
 }
 
+
+
+
+@media (max-width: 350px) {
+    #questions h2 {
+        font-size: 1rem;
+    }
+
+    #questions p {
+        font-size: 0.8rem;
+    }
+
+
+    
+}
