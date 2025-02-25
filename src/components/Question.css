@@ -31,3 +31,28 @@
     cursor: pointer;
 }
 
+#questions p {
+    margin-top: 1rem;
+}
+
+@media (max-width: 600px) {
+    #questions h2 {
+        font-size: 2rem;
+    }
+
+    #questions p {
+        margin-top: 1rem;
+    }
+}
+
+
+@media (max-width: 500px) {
+    #questions h2 {
+        font-size: 1.5rem;
+    }
+
+    #questions p {
+        margin-top: 1rem;
+    }
+}
+

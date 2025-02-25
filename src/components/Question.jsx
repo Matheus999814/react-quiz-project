@@ -25,7 +25,7 @@ console.log(quizState.optionToHide)
         Pergunta {quizState.currentQuestions + 1} de{" "}
         {quizState.questions.length}
       </p>
-      <h2>{currentQuestion.question}</h2>
+      <h2 className="text-question">{currentQuestion.question}</h2>
       {currentQuestion.options.map((option) => (
         <Options
           option={option}
