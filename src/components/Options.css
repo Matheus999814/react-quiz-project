@@ -1,0 +1,21 @@
+.correct {
+    background-color: green;
+    border-radius: 15px;
+    transition: 0.5s;
+
+}
+
+.wrong{
+    background-color: red;
+    border-radius: 15px;
+    transition: 0.5s;
+  
+}
+
+.hide {
+    display: none;
+}
+
+.option:hover {
+ opacity: 0.7;
+}

@@ -1,0 +1,21 @@
+.welcome-h2 {
+    text-align: center;
+}
+
+.btn-start {
+    padding: 0.8rem 1.3rem;
+    border: 2px solid #fff ;
+    color: #fff;
+    border-radius: 15px;
+    background-color: #1E3A5F;
+    cursor: pointer;
+    transition: 0.3s;
+  
+    
+    
+}
+
+.btn-start:hover {
+    opacity: 0.7;
+
+}
