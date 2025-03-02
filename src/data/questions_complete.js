@@ -12,7 +12,7 @@ const data = [
         question: "5 + x = 12, qual o número?",
         options: ["7", "10", "6", "5"],
         answer: "7",
-        tip: "Hyperlink Reference",
+      
       },
       {
         question: "10 - 8 = ?",
@@ -42,8 +42,8 @@ const data = [
       },
       {
         question: "Penelope foi ao mercado tendo 5R$. Ao chegar lá, gastou 2.50R$. Quanto de dinheiro sobrou para ela?",
-        options: ["5R$", "2.50R$", "3R$", "2.47R$"],
-        answer: "2.50R$",
+        options: ["R$5", "R$2.50", "R$3", "R$2.47"],
+        answer: "R$2.50",
       },
       {
         question: "2 * (2 + 2) - 2 = ?",
@@ -66,14 +66,14 @@ const data = [
     category: "Hard",
     questions: [
       {
-        question: "Fui ao mercado tendo 10 reais, cheguei lá peguei 2 maçãs e após ter comprado elas, voltei para casa com 7 reais. Qual foi o valor que paguei em cada maçã?",
+        question: "Fui ao mercado tendo 10 reais, cheguei lá peguei 2 maçãs e após ter comprado elas, voltei para casa com R$7 reais. Qual foi o valor que paguei em cada maçã?",
         options: [
-          "3R$",
-          "1.50R$",
-          "2R$",
-          "2.80R$",
+          "R$3",
+          "R$1.50",
+          "R$2",
+          "R$2.80",
         ],
-        answer: "1.50R$",
+        answer: "R$1.50",
       },
       {
         question: "Em uma corrida, você ultrapassa o segundo colocado. Em que posição você fica?",
@@ -86,9 +86,9 @@ const data = [
         answer: "180s",
       },
       {
-        question: "Se você tem 10 reais e compra 3 doces por 2 reais cada, quanto dinheiro sobra?",
-        options: ["5R$", "3R$", "4,50R$", "4R$"],
-        answer: "4R$",
+        question: "Se você tem R$10 reais e compra 3 doces por R$2 reais cada, quanto dinheiro sobra?",
+        options: ["R$5", "R$3", "R$4,50", "R$4"],
+        answer: "R$4",
       },
       {
         question:

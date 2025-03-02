@@ -1,4 +1,4 @@
-import { createContext, useReducer, useState } from "react";
+import { createContext, useReducer } from "react";
 import questions from "../data/questions_complete";
 
 export const QuizContext = createContext();
